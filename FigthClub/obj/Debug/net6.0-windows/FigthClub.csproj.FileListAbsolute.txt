@@ -1,0 +1,54 @@
+C:\Users\USER\Desktop\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.exe
+C:\Users\USER\Desktop\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.deps.json
+C:\Users\USER\Desktop\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.runtimeconfig.json
+C:\Users\USER\Desktop\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.dll
+C:\Users\USER\Desktop\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.pdb
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.Form1.resources
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.Properties.Resources.resources
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.AssemblyInfo.cs
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.dll
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\refint\FigthClub.dll
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.pdb
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.genruntimeconfig.cache
+C:\Users\USER\Desktop\FigthClub\FigthClub\obj\Debug\net6.0-windows\ref\FigthClub.dll
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.exe
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.deps.json
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.runtimeconfig.json
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.dll
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.pdb
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.Form1.resources
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.Properties.Resources.resources
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.AssemblyInfo.cs
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.dll
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\refint\FigthClub.dll
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.pdb
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.genruntimeconfig.cache
+C:\Users\USER\Desktop\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\ref\FigthClub.dll
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.exe
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.deps.json
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.runtimeconfig.json
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.dll
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\bin\Debug\net6.0-windows\FigthClub.pdb
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.Form1.resources
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.Properties.Resources.resources
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.AssemblyInfo.cs
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.dll
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\refint\FigthClub.dll
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.pdb
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\FigthClub.genruntimeconfig.cache
+C:\Users\USER\Desktop\Yeni klasör (8)\eski projeler\FigthClub\FigthClub\obj\Debug\net6.0-windows\ref\FigthClub.dll
